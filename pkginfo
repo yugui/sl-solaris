@@ -1,0 +1,10 @@
+PKG=YUGUIsl
+NAME=sl - ls alternative
+ARCH=sparc
+CATEGORY=application
+VERSION=3.03
+VENDOR=http://www.tkl.iis.u-tokyo.ac.jp/~toyoda/
+HOTLINE=on your risk
+EMAIL=on your risk
+DESC=provides an a
+ternative on mistyping for `ls'
